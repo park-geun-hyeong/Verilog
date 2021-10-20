@@ -1,2 +1,2 @@
 # Verilog
-- verilog code for Digital System Design class 
+- Verilog code for Digital System Design class 
